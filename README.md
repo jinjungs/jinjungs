@@ -1,4 +1,6 @@
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinjungs&count_private=true&show_icons=true&theme=blueberry&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 ### Hi there 👋
