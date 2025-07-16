@@ -4,6 +4,10 @@
 
 
 ### Hi there 👋
+
+My Blog
+https://ejjung.hashnode.dev/
+
 <!--
 **JinJungs/jinjungs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
